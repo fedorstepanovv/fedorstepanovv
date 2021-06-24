@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fedorstepanovv
 - 👀 I’m interested in mobile development. 
-- 🌱 I’m currently using Flutter to create my product. 
-- 📫 You can reach me through social networks. @createdonothate - telegram. @fedorstepanovv - instagram. 
+- 🌱 I’m currently using Flutter to create my products. 
+- 📫 You can reach me through social networks. @fedorstepanovv - telegram. @fedorstepanovv - instagram. 
 
 <!---
 fedorstepanovv/fedorstepanovv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
