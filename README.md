@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fedorstepanovv
-- 👀 I’m interested in mobile development. 
-- 🌱 I’m currently using Flutter to create my products. 
+- 👀 I’m interested in Flutter cross-platform mobile development and backend development. 
+- 🌱 
 - 📫 You can reach me via social networks. @fedorstepanovv - telegram. @fedorstepanovv - instagram. 
 
 <!---
