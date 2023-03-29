@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @fedorstepanovv
-- 👀 I’m interested in Flutter cross-platform mobile development and backend development. 
-- 📫 You can reach me via social networks. @fedorstepanovv - telegram. @fedorstepanovv - instagram. 
+- 👋 Hi, I’m @fedorstepanovv. 
+- 👀 I’m interested in writing the computer software that helps people. I have a wide experience in delivering products in Flutter, Objective-C, Java and Golang.
+- 📫 theohendersonn@gmail.com. Reach me here!
 
 <!---
 fedorstepanovv/fedorstepanovv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
